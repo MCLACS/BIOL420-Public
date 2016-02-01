@@ -1,5 +1,5 @@
 def main():
-    
+
     print "Enter a word:",
     word1 = raw_input().upper()
     word2 = ""
