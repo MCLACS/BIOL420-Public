@@ -4,9 +4,23 @@ Lists - ordered, accepts different types items, mutable, grows as needed
 mylist = [1, "2", 3.0]
 print mylist
 
-print len(mylist)
+print 1 in mylist # True
+print 99 in mylist # False
+print 3.0 in mylist # True
+print 3 in mylist # True
+print "2" in mylist # True
+print 2 in mylist # False
+
+#iterate the items in a list
+for i in mylist:
+	print i
+	print i * 2 # for the string we get "22"
+
+print mylist.index("2") # prints 1
+
+print len(mylist) # prints the length, which is 3
 print mylist[1] # 0-based indexing
-mylist =  mylist + ["new", "items"] # + appends
+mylist =  mylist + ["new", "items"] # + appends a list to a list!
 print mylist
 
 print mylist[:2] # new list from start up to but not including 3rd item
@@ -28,6 +42,8 @@ print mylist
 
 mylist.reverse() # reverses list
 print mylist
+
+
 
 print range(4) # creates this list [0,1,2,3]
 print range(4, 10, 2) # creates this list [4,6,8]
