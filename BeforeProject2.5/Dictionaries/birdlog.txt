@@ -1,0 +1,16 @@
+5/23/2016,Yellow Warbler,4,Mt Greylock
+5/23/2016,Pine Warbler,2,Mt Greylock
+6/1/2016,Yellow-Rumped Warpler,8,Canoe Meadows
+6/1/2016,Black and White Warbler,1,Canoe Meadows
+6/1/2016,Palm Warbler,1,Canoe Meadows
+6/1/2016,Yellow-Rumped Warbler,8,Canoe Meadows
+6/8/2016,Northern Parula,1,Field Farm
+6/8/2016,Nashville Warbler,1,Field Farm
+6/8/2016,Black and White Warbler,2,Field Farm
+6/8/2016,Yellow Warbler,5,Field Farm
+6/8/2016,Canada Warbler,1,Field Farm
+6/8/2016,Black-Throated Green Warbler,5,Field Farm
+6/12/2016,Ovenbird,3,Savoy
+6/12/2016,American Redstart,2,Savoy
+6/12/2016,Blackpoll Warbler,1,Savoy
+6/12/2016,Black-Throated Green Warbler,2,Savoy
